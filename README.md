@@ -9,3 +9,5 @@ I'm a computer programmer and technologist based out of Salt Lake City, UT. I'm 
 
 - 😄 My Pronouns: [He/Him](https://pronoun.is/he), [They/Them](https://pronoun.is/they)
 - 💬 Ask me about: React.js, React Native, Gatsby, CSS, Self-Hosted Applications
+
+[![Kepler's GitHub stats](https://github.com/keplersj/github-stats/blob/master/generated/overview.svg)](https://github.com/jstrieb/github-stats)
